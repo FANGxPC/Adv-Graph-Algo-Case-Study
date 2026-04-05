@@ -1,0 +1,9 @@
+topology,failure_mode,components_failed,healing_ratio,edges_activated,total_cost,diameter_healed,avg_path_healed,is_healed
+watts_strogatz,random,1,1.0,0,0,13,5.666,True
+watts_strogatz,targeted,2,1.0,1,13.21,23,7.752,True
+barabasi_albert,random,3,0.0,0,0,7,3.165,False
+barabasi_albert,targeted,31,0.7,21,265.8,27,10.353,False
+erdos_renyi,random,1,1.0,0,0,5,2.597,True
+erdos_renyi,targeted,2,0.0,0,0,5,2.803,False
+grid,random,1,1.0,0,0,18,6.981,True
+grid,targeted,1,1.0,0,0,18,7.139,True

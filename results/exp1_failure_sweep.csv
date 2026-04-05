@@ -1,0 +1,11 @@
+failure_rate,components_failed,components_healed,healing_ratio,edges_activated,total_cost,is_healed
+0.05,1,1,1.0,0,0,True
+0.1,1,1,1.0,0,0,True
+0.15,1,1,1.0,0,0,True
+0.2,1,1,1.0,0,0,True
+0.25,2,1,1.0,1,7.97,True
+0.3,4,1,1.0,3,36.62,True
+0.35,5,2,0.75,3,36.62,False
+0.4,7,3,0.6666666666666666,4,46.08,False
+0.45,7,3,0.6666666666666666,4,46.08,False
+0.5,9,4,0.625,5,57.05,False

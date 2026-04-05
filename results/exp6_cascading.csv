@@ -1,0 +1,6 @@
+round,nodes_remaining,nodes_failed_this_round,total_failed,components_before_heal,components_after_heal,edges_activated,is_connected
+1,120,15,15,1,1,0,True
+2,109,13,28,2,1,1,True
+3,98,12,40,2,1,1,True
+4,88,11,51,6,2,4,False
+5,81,9,60,5,2,3,False

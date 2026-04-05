@@ -1,0 +1,10 @@
+Experiment                          Key Finding                                       
+-------------------------------------------------------------------------------------
+1. Failure Rate Sweep               Full heal up to 30% failure                       
+2. Topology Comparison              Best: watts_strogatz (100%)                       
+3. Scalability (50-500)             Max time: 1946ms at n=500                         
+4. kruskal_dsu                      Avg cost: 18.2                                    
+4. random                           Avg cost: 30.1                                    
+4. degree_based                     Avg cost: 29.5                                    
+5. Dormant Budget                   Min budget for full heal: 10%                     
+6. Cascading Failures               Connected after 3/5 rounds                        

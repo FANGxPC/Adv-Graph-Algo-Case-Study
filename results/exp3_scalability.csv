@@ -1,0 +1,9 @@
+n,total_time_ms,heal_time_ms,healing_ratio,edges_activated,components_failed,is_healed
+50,12.79,0.408,1.0,0,1,True
+75,27.78,0.453,1.0,0,1,True
+100,41.29,0.669,1.0,0,1,True
+150,80.66,0.895,1.0,0,1,True
+200,187.78,1.156,1.0,0,1,True
+300,335.12,2.508,1.0,1,2,True
+400,1101.27,2.961,0.0,0,3,False
+500,1945.95,5.449,1.0,2,3,True
