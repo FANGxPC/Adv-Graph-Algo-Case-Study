@@ -4,6 +4,7 @@ import random
 from matplotlib.animation import FuncAnimation
 import copy
 
+
 # ── 1. Graph with better visual properties ────────────────────────────────
 n = 30
 # Watts-Strogatz usually gives nicer spread than BA for visualization
